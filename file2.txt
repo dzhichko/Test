@@ -1,0 +1,5 @@
+10. В каталоге User1 создать два текстовых файла (file1.txt и file2.txt) с 
+произвольным текстом.
+11. В командной строке посмотрите статус репозитория с помощью команды 
+git status
+gggggggggggggggggggggggggggggggggggg
